@@ -1,7 +1,7 @@
 ## World Clock
 # A simple world clock using tkinter and datetime
 
-This projext has been made by me in my free time
+This project has been made by me in my free time
 I hope you like it
 
 You can even add more countries by yourself and modify it as per your fit
