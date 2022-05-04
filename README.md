@@ -1,4 +1,4 @@
-##World Clock
+## World Clock
 #A simple world clock using tkinter and datetime
 
 This projext has been made by me in my free time
