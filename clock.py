@@ -36,6 +36,7 @@ def world_time():
     clock.after(200,world_time) #to make clock run
 
 #Structure of world clock (font,text,position)
+#Made by Arnav Kamra
 name = Label(root,font=("times",20,"bold"))
 name.place(x=30,y=5)
 clock = Label(root,font=("times",25,"bold"))
